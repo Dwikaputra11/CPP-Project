@@ -1,0 +1,9 @@
+bug yang gw temuin di main program sejauh ini :
+1. "kamu memiliki skill : " ini keprint 2 kali kalo manggil command skill
+2. pas nyoba mesin penukar posisi itu nama diri sendiri masih muncul di pilihan (harusnya 	
+   nama pemain lain aja yang muncul)
+3. pas nyoba senter pengecil hoki dia malah loop forever (harusnya make break? tp gatau dmn)
+4. waktu salah masukin angka di "masukkan skill" itu dia malah nge stop program keseluruhan
+5. harusnya, kalo dia udah jalan kan gaboleh make skill. nah itu blm gw buat codenya
+6. pas make cermin pengganda, padahal skillnya cuma isi 2, tapi dibilang udah penuh
+7. pas buang skill dia malah stop program, harusnya lanjut game

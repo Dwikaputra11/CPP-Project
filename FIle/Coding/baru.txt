@@ -1,0 +1,27 @@
+DK 123 PP
+Avanza
+12:45
+B 1001 AG
+Terios
+10:34
+AA 1230 PQ
+Avanza
+10:34
+DK 145 AZ
+Xenia
+22:10
+B 1097 ZZ
+Terios
+15:34
+C 1546 AF
+Fortuner
+14:48
+DK 222 PK
+Avanza
+12:34
+B 6767 HJ
+Terios
+13:36
+G 4545 KF
+CRV
+15:22

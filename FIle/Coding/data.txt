@@ -1,0 +1,10 @@
+ini adalah file eksternal.
+dan ini adalah baris ke-dua.
+
+data
+No 	Nama
+1	Dwika
+2	Putra
+3	Riswanda
+4	Made
+5	Wik

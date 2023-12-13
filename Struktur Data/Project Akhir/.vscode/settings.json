@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "fstream": "cpp",
+    "regex": "cpp",
+    "ratio": "cpp",
+    "ostream": "cpp",
+    "iosfwd": "cpp",
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "bitset": "cpp",
+    "new": "cpp",
+    "string": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
